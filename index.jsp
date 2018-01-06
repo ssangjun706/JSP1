@@ -12,5 +12,6 @@
 		Date today = new Date();
 	%>
 	<h1> 현재시간: <%=today.toLocaleString()%></h1>
+	<h2> 날짜: </h2>
 </body>
 </html>
